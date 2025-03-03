@@ -1,0 +1,2 @@
+C:/flutterProjects/flutter_application_agronom_ai/android/app/.cxx/Debug/2x23314s/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/flutterProjects/flutter_application_agronom_ai/android/app/.cxx/Debug/2x23314s/arm64-v8a/CMakeFiles/rebuild_cache.dir

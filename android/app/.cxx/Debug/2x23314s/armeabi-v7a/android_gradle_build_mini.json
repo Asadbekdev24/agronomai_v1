@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Program Files\\Android\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\flutterProjects\\flutter_application_agronom_ai\\android\\app\\.cxx\\Debug\\2x23314s\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Program Files\\Android\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\flutterProjects\\flutter_application_agronom_ai\\android\\app\\.cxx\\Debug\\2x23314s\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
