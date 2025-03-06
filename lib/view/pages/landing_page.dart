@@ -12,10 +12,11 @@ class LandingPage extends StatefulWidget {
 }
 
 class _LandingPageState extends State<LandingPage> {
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      //backgroundColor: Colors.grey[100],
+      backgroundColor: Color(0xfff1eee7),
       body: SafeArea(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.start,
@@ -125,8 +126,6 @@ class _LandingPageState extends State<LandingPage> {
           ],
         ),
       ),
-
-   
     );
   }
 }
